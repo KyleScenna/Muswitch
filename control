@@ -1,0 +1,9 @@
+Package: com.kyletweak.muswitch
+Name: Muswitch
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Muswitch music controls.
+Maintainer: kbscmb@gmail.com
+Author: KyleTweak
+Section: Tweaks
